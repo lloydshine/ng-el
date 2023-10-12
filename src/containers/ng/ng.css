@@ -14,7 +14,7 @@
   color: white;
 }
 .ng .ng-intro p {
-  color: gray;
+  color: rgb(249, 198, 198);
   font-size: 1.2rem;
 }
 @media screen and (max-width:800px) {
