@@ -1,0 +1,1 @@
+export { default as Ng } from './ng/Ng';

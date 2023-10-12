@@ -1,0 +1,19 @@
+.ng {
+  height: 100vh;
+  background: url('../../media/back.svg') no-repeat center center / cover;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 3rem;
+}
+.ng .ng-intro {
+  max-width: 40%;
+}
+.ng .ng-intro h1 {
+  font-size: 3rem;
+  color: white;
+}
+.ng .ng-intro p {
+  color: gray;
+  font-size: 1.2rem;
+}
